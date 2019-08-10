@@ -1,0 +1,7 @@
+F:\C# learning\practiceProjects\Practice\DataStructure\bin\Debug\DataStructure.exe.config
+F:\C# learning\practiceProjects\Practice\DataStructure\bin\Debug\DataStructure.exe
+F:\C# learning\practiceProjects\Practice\DataStructure\bin\Debug\DataStructure.pdb
+F:\C# learning\practiceProjects\Practice\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+F:\C# learning\practiceProjects\Practice\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+F:\C# learning\practiceProjects\Practice\DataStructure\obj\Debug\DataStructure.exe
+F:\C# learning\practiceProjects\Practice\DataStructure\obj\Debug\DataStructure.pdb
